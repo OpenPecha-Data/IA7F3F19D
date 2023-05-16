@@ -1,0 +1,19 @@
+id: IA7F3F19D
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:27:28.080305
+last_modified: 2023-01-04 11:27:28.080324
+source_metadata:
+  collections:
+  - Adzom Drukpa Series
+  - Works of Tibetan Masters
+bases:
+  BA1F:
+    title: 'The Ambrosia of Blessings: A Prayer to the Vidyādhara of Unparalleled
+      Kindness, Drodül Pawo Dorje'
+    base_file: BA1F.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
